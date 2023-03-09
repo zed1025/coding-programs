@@ -1,0 +1,5 @@
+D = Doubt
+C = Doubt/Error Cleared
+W = Wrong Solution
+E = Getting Error
+B = Brute Force Solution
